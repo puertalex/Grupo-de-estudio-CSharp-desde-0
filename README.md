@@ -9,6 +9,8 @@ Bienvenido al grupo de estudio de programación en C#, donde se está realizando
 
 * [Script de notas sobre la primera sesión (12/10/23)](https://github.com/puertalex/Grupo-de-estudio-CSharp-desde-0/blob/master/Fundamentos/sessionscript1.cs)
 
+* [Solución del reto #40 de retos semanales (mouredev)](https://github.com/puertalex/Grupo-de-estudio-CSharp-desde-0/blob/master/Fundamentos/tables.cs)
+
 * Proxima sesión en definición...
 
 ---
