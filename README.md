@@ -15,5 +15,5 @@ Bienvenido al grupo de estudio de programación en C#, donde se está realizando
 
 ## ![moure](https://cdn.discordapp.com/emojis/987095048430714940.gif?size=48&amp;quality=lossless)  Grupo de estudio
 
-* Nuestro grupo de estudio pertenece al servidor de discord de [MoureDev](https://discord.gg/mouredev), Perteneciendo nosotros a el grupo titulado "Grupo de estudio C# desde 0" en el foro de grupos
+* Nuestro grupo de estudio pertenece al servidor de discord de [MoureDev](https://discord.gg/mouredev), nos puedes encontrar en el grupo titulado "Grupo de estudio C# desde 0" en el foro de grupos
 [![forum](https://media.discordapp.net/attachments/978006902866841710/1162445606770446446/foro.png?ex=653bf6d5&is=652981d5&hm=9e3bb838e72a10588f89f4eb2087a0674bf301edb9978df1a9f50a4aef193b67&=&width=906&height=202)](https://discord.gg/mouredev)
