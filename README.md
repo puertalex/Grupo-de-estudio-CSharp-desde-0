@@ -7,7 +7,7 @@
 
 Bienvenido al grupo de estudio de programación en C#, donde se está realizando un proceso de aprendizaje desde los conceptos básicos hasta los más avanzados en el desarollo del lenguaje. Este grupo está abierto a cualquier persona interesada en aprender o mejorar sus habilidades de programación en este lenguaje.
 
-* [Script de notas sobre la primera sesión (12/10/23)](https://github.com/puertalex/Grupo-de-estudio-CSharp-desde-0/blob/master/Fundamentos/Program.cs)
+* [Script de notas sobre la primera sesión (12/10/23)](https://github.com/puertalex/Grupo-de-estudio-CSharp-desde-0/blob/master/Fundamentos/sessionscript1.cs)
 
 * Proxima sesión en definición...
 
