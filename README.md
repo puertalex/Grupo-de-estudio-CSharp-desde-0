@@ -1,5 +1,6 @@
 # C sharp desde 0   |   Grupo de estudio 
 ![C#](https://p92.com/binaries/content/gallery/p92website/technologies/c-sharp-details.png)
+</br>
 ![version](https://img.shields.io/badge/Dotnet%20-%207.0.402%20-%20%23653afb?style=flat-square&logo=dotenv&logoColor=653afb&labelColor=7b7b7b) 
 
 ---
