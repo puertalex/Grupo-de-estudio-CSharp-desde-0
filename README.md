@@ -7,9 +7,9 @@
 
 Bienvenido al grupo de estudio de programación en C#, donde se está realizando un proceso de aprendizaje desde los conceptos básicos hasta los más avanzados en el desarollo del lenguaje. Este grupo está abierto a cualquier persona interesada en aprender o mejorar sus habilidades de programación en este lenguaje.
 
-* [Script de notas sobre la primera sesión (12/10/23)](https://github.com/puertalex/Grupo-de-estudio-CSharp-desde-0/tree/master/Recursos/Sesión%201%20-%20Fundamentos)
+* [Script de notas sobre la primera sesión (12/10/23)](https://github.com/puertalex/Grupo-de-estudio-CSharp-desde-0/blob/master/Recursos/Sesión%201%20-%20Fundamentos/sessionscript1.cs)
 
-* [Solución del reto #40 de retos semanales (mouredev)](https://github.com/puertalex/Grupo-de-estudio-CSharp-desde-0/blob/master/Fundamentos/tables.cs)
+* [Solución del reto #40 de retos semanales (mouredev)](https://github.com/puertalex/Grupo-de-estudio-CSharp-desde-0/blob/master/Recursos/Sesión%201%20-%20Fundamentos/tables.cs)
 
 * [Script de ejercicio: Menú multifunción (22/10/23)](https://github.com/puertalex/Grupo-de-estudio-CSharp-desde-0/blob/master/Recursos/Sesión%202%20-%20Menu%20multifuncion/appmenu.cs)ㅤ**Nueva**
 
